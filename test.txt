@@ -3,3 +3,5 @@ Ahoj, toto bude můj první commit.
 Ahoj, přidávám druhý commit.
 
 Ahoj, přidávám třetí.
+
+www.google.com
