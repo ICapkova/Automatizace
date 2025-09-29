@@ -1,3 +1,5 @@
 Ahoj, toto bude můj první commit.
 
-Ahoj, přidávám další commit.
+Ahoj, přidávám druhý commit.
+
+Ahoj, přidávám třetí.
