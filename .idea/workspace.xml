@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="932af20a-8399-4430-8aec-5ba026e10c8b" name="Changes" comment="Domácí úkol">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatizace/Sprin4_IvCa" beforeDir="false" afterPath="$PROJECT_DIR$/Automatizace/Sprin4_IvCa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IKEItas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ICapkova"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ICapkova/Automatizace.git",
+    "accountId": "d1580c73-b3e5-4f3c-81d5-b01887f25e43"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="35egswJzMDpP7JmxqUl8lUinml7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "IvaCAP",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ivaca/Desktop/Iva/IT/Verzování/Samostudium"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivaca\Desktop\Iva\IT\Verzování\Samostudium" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="932af20a-8399-4430-8aec-5ba026e10c8b" name="Changes" comment="" />
+      <created>1763476161614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763476161614</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Domácí úkol">
+      <option name="closed" value="true" />
+      <created>1763476262774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763476262774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Domácí úkol" />
+    <option name="LAST_COMMIT_MESSAGE" value="Domácí úkol" />
+  </component>
+</project>
